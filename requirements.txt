@@ -1,2 +1,2 @@
-catalyst
-segmentation-models-pytorch
+catalyst==22.04
+segmentation-models-pytorch==0.3.0
